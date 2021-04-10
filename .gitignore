@@ -1,0 +1,9 @@
+Google Translate-win32-x64/
+node_modules/
+resources/
+*.gz
+*.tgz
+*.zip
+*.URL
+*.lnk
+package-lock.json
