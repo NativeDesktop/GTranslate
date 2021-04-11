@@ -3,14 +3,14 @@ Desktop version of Google Translate
 
 This app is made by using nativefier, npm and ElectronJS
 
-![Screenshot of a Google Translate desktop app](./screenshot.jpg)
+![Screenshot of a Google Translate desktop app](./resources/images/screenshot.jpg)
 
 ## Installation
 
 ```
 git clone https://github.com/sitemapxml/GTranslate-desktop.git
 npm install
-nativefier https://translate.google.com --inject ./custom.css
+nativefier https://translate.google.com --inject ./resources/styles/custom.css
 ```
 After that you will have two new folders created:
 
