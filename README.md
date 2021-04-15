@@ -3,6 +3,8 @@ Desktop version of Google Translate
 
 This app is made by using nativefier, npm and ElectronJS
 
+If you want to know details about current release you can take a look at our [Change Log](./CHANGELOG.md)
+
 ![Screenshot of a Google Translate desktop app](./resources/images/screenshot.jpg)
 
 ## Installation
@@ -23,4 +25,4 @@ Enjoy :smile:
 
 Feel free to contribute.
 
-License: MIT
+License: [MIT](./LICENSE)

@@ -1,5 +1,6 @@
 Google Translate-win32-x64/
 node_modules/
+build/
 *.gz
 *.tgz
 *.zip
