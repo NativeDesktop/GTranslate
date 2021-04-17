@@ -3,7 +3,7 @@
 
 #define MyAppName "GTranslate"
 #define MyAppVersion "1.0.0"
-#define MyAppPublisher "Native Desktop"
+#define MyAppPublisher "NativeDesktop"
 #define MyAppURL "https://github.com/NativeDesktop/GTranslate/"
 #define MyAppExeName "GTranslate.exe"
 

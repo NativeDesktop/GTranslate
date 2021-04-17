@@ -7,6 +7,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - custom themes support
 - build script for PowerShell
 
+## [1.0.1] - 2021. April, 17
+- added innosetup-compiler npm module
+- updated README.md
+
 ## [1.0.0] - 2021. April, 15
 
 ### Added

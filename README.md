@@ -21,6 +21,14 @@ After that you will have two new folders created:
 
 When you open `Google Translate-win32-x64`, you will find `Google Translate.exe` inside. You should be able to run it directly by double-clicking it.
 
+## Packaging
+You can make setup file with Inno-setup script provided.
+To execute it, you can use:
+
+```
+sh node_modules/.bin/innosetup-compiler resources/scripts/installer.iss
+```
+
 Enjoy :smile:
 
 Feel free to contribute.
