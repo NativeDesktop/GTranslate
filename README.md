@@ -10,7 +10,7 @@ If you want to know details about current release you can take a look at our [Ch
 ## Installation
 
 ```
-git clone https://github.com/sitemapxml/GTranslate-desktop.git
+git clone https://github.com/NativeDesktop/GTranslate.git
 npm install
 nativefier https://translate.google.com --inject ./resources/styles/custom.css
 ```
